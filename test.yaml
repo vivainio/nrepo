@@ -1,5 +1,7 @@
 root: c:/t
 
 components:
-    - repo: https://github.com/vivainio/jardumpr
-    - t: jardumpr
+    - repo: git@github.com:vivainio/jardumpr.git
+      t: jardumpr
+    - repo: git@github.com:vivainio/walker.git
+      t: walker
