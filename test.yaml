@@ -1,0 +1,5 @@
+root: c:/t
+
+components:
+    - repo: https://github.com/vivainio/jardumpr
+    - t: jardumpr
