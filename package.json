@@ -1,0 +1,10 @@
+{
+  "name": "nrepo",
+  "version": "0.0.0",
+  "description": "nrepo",
+  "main": "app.js",
+  "author": {
+    "name": "villevai",
+    "email": ""
+  }
+}
