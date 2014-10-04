@@ -37,11 +37,14 @@
     <Content Include="package.json" />
     <Content Include="README.md" />
     <TypeScriptCompile Include="Scripts\typings\node\node.d.ts" />
+    <TypeScriptCompile Include="typings\js-yaml\js-yaml.d.ts" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Scripts\" />
     <Folder Include="Scripts\typings\" />
     <Folder Include="Scripts\typings\node\" />
+    <Folder Include="typings\" />
+    <Folder Include="typings\js-yaml\" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsTools.targets" />
   <ProjectExtensions>

@@ -8,6 +8,7 @@
     "email": ""
   },
   "dependencies": {
-    "js-yaml": "^3.2.2"
+    "js-yaml": "^3.2.2",
+    "lodash": "^2.4.1"
   }
 }
